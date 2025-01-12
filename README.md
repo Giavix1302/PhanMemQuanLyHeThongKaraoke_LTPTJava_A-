@@ -1,1 +1,1 @@
-# Phầm mềm quản lí lương nhân viên - LTPTJava A+
+# Phầm mềm quản lí hệ thống karaoke - LTPTJava A+
